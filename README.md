@@ -1,0 +1,3 @@
+This is the [F260 Bible reading plan](https://replicate.org/f260-bible-reading-plan/) in an [Obsidian](https://obsidian.md) [Tasks](https://schemar.github.io/obsidian-tasks/) format. This was inspired by [Redeeming Productivity's video](https://www.youtube.com/watch?v=tSQVmhaLN7c) on using Obsidian to manage and track your daily Bible reading.
+
+Also included is an Excel worksheet that allowed me to create this a little quicker.
